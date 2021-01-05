@@ -66,4 +66,4 @@ print(frnd1)
 frnd2 = frnd1
 frnd2.pop()
 print(frnd1)
-print(frnd2)
+#print(frnd2)
